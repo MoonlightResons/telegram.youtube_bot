@@ -1,3 +1,5 @@
+#это черновик кому надо, основные действия выполняются через main.py
+
 import tracemalloc
 tracemalloc.start()
 from googleapiclient.discovery import build
